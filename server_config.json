@@ -1,31 +1,6 @@
 {
-    "quiz": {
-        "sport": {
-            "q1": {
-                "question": "Where is the flag?",
-                "options": [
-                    "India",
-                    "USA",
-                    "Japan"
-                ],
-                "answer": "somewhere secret!"
-            }
-        },
-        "maths": {
-            "q1": {
-                "question": "5 + 7 = ?",
-                "options": [
-                    "10",
-                    "11",
-                    "12",
-                    "13"
-                ],
-                "answer": "12"
-            },
-            "secrets": {
-                "username": "admin",
-                "access_token": "{
-    "quiz": {
+    
+       "quiz": {
         "sport": {
             "q1": {
                 "question": "Where is the flag?",
@@ -54,8 +29,4 @@
             }
         }
     }
-}",           
-            }
-        }
-    }
-}
+}          
