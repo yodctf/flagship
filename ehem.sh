@@ -34,7 +34,7 @@ test_expect_success SYMLINKS 'change file to symbolic link' '
 		p4 filelog -m 1 //depot/file2 >filelog &&
 		grep "(symlink)" filelog
 	)
-'
+
 
 test_expect_success SYMLINKS 'change symbolic link to file' '
 	git p4 clone --dest="$git" //depot@all &&
