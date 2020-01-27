@@ -2,7 +2,7 @@
 
 test_expect_success 'start p4d' '
 	start_p4d
-'
+
 
 test_expect_success 'create files' '
 	(
